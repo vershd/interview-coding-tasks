@@ -1,2 +1,2 @@
 # interview-coding-tasks
-Various tasks solved during interviews
+Various coding tasks completed during interviews
